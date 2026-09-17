@@ -1,0 +1,14 @@
+{
+  "name": "Private Line V6",
+  "short_name": "Private Line",
+  "description": "Private peer-to-peer chats, calls, Watch Party and Meme Lounge.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070a0d",
+  "theme_color": "#070a0d",
+  "orientation": "any",
+  "icons": [
+    {"src":"./icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
